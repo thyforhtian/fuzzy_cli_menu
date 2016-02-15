@@ -1,0 +1,26 @@
+{
+  "name": "fuzzy_cli_menu",
+  "version": "0.1.0",
+  "description": "Simple cli menu with fuzzy filtering",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyforhtian/fuzzy_cli_menu.git"
+  },
+  "keywords": [
+    "menu",
+    "cli",
+    "fuzzy"
+  ],
+  "author": "Piotr Luchowski <thyforhtian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thyforhtian/fuzzy_cli_menu/issues"
+  },
+  "homepage": "https://github.com/thyforhtian/fuzzy_cli_menu#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "fuzzy": "^0.1.1",
+    "keypress": "^0.2.1"
+  }
+}
