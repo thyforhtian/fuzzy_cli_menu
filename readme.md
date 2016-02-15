@@ -1,4 +1,4 @@
-# [repository]
+# fuzzy_cli_menu
 
 Simple cli menu with fuzzy filtering 
 
