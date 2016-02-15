@@ -2,6 +2,8 @@
 
 Simple cli menu with fuzzy filtering 
 
+![fuzzy_cli_menu_in_action](https://cloud.githubusercontent.com/assets/875767/13063383/e325f148-d447-11e5-8aff-e815205483d1.gif)
+
 ## Installation
 
 `npm install -g fuzzy_cli_menu`
