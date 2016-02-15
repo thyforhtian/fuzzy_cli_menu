@@ -10,7 +10,6 @@ Simple cli menu with fuzzy filtering
 
 ```js
 var fcm = require("fuzzy_cli_menu");
-var exec = require('child_process').exec;
 
 const menuItems = [{
   "name": "Skivee",
