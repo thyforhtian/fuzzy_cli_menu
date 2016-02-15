@@ -6,7 +6,7 @@ Simple cli menu with fuzzy filtering
 
 ## Installation
 
-`npm install -g fuzzy_cli_menu`
+`npm install fuzzy_cli_menu`
 
 ## Usage
 
