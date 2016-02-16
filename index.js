@@ -159,8 +159,6 @@ module.exports = (function() {
             stdout += "\r\n\n";
         }
 
-        stdout += "\x1B[0f";
-
         process.stdout.write(stdout);
     };
 
