@@ -12,7 +12,7 @@
     "cli",
     "fuzzy"
   ],
-  "author": "Piotr Luchowski <thyforhtian@gmail.com>",
+  "author": "thyforhtian <thyforhtian@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thyforhtian/fuzzy_cli_menu/issues"
